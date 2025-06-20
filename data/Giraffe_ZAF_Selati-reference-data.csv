@@ -1,0 +1,5 @@
+tag-id,animal-id,animal-taxon,deploy-on-date,deploy-off-date,animal-sex,attachment-body-part,attachment-type,deployment-id
+twiga_ceres_tag.0-3602193.6c0827c0-b495-4c17-aae9-3fd06d752987,GCF00406_2823,Giraffa giraffa,2021-08-05 03:00:00.000,2023-12-24 02:59:00.000,f,,ear-tag,537e54f9-10e2-466e-9fb0-af57ccdb5a47
+twiga_ceres_tag.0-3601548.6c0827c0-b495-4c17-aae9-3fd06d752987,GCF00391_2715,Giraffa giraffa,2021-08-05 16:00:00.000,2022-10-24 04:59:00.000,f,,ear-tag,009e19df-d6c5-4862-a9ba-1f8200440068
+twiga_ceres_tag.0-3601936.6c0827c0-b495-4c17-aae9-3fd06d752987,GCF00400_2800,Giraffa giraffa,2021-08-05 16:00:00.000,2021-11-29 02:59:00.000,m,,other,becec324-f8b2-45dd-93b7-6626381652ca
+twiga_ceres_tag.0-3601880.6c0827c0-b495-4c17-aae9-3fd06d752987,GCF00392_2724,Giraffa giraffa,2021-08-06 03:00:00.000,2022-10-24 04:59:00.000,m,ear-tag,ear-tag,bfbfc630-0f8a-4f80-a80a-fa6902dac04c

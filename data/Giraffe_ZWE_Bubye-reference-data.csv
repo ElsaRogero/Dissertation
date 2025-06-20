@@ -1,0 +1,3 @@
+tag-id,animal-id,animal-taxon,deploy-on-date,deploy-off-date,animal-sex,attachment-body-part,deployment-id
+SAT1991,GCF00172_1991,Giraffa giraffa,2016-06-08 11:00:00.000,2016-08-10 02:59:00.000,f,harness,b272cf6c-4d39-42e3-b2cc-81e746d9909c
+SAT1949,GCF00156_1949,Giraffa giraffa,2016-06-08 11:00:00.000,2017-02-07 02:59:00.000,f,harness,94306dfc-549e-4e21-abcc-5e95721789c2

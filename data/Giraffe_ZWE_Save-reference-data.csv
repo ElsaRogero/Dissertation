@@ -1,0 +1,14 @@
+tag-id,animal-id,animal-taxon,deploy-on-date,deploy-off-date,animal-sex,attachment-type,deployment-comments,deployment-id,tag-comments
+IRI2016-3183,GCF00118_3183,Giraffa giraffa,2019-06-10 00:00:00.000,2020-11-04 23:59:00.000,f,other,failed,46683673-e9f2-40c5-9ac4-440ad382804b,ossicone
+IRI2016-3190,GCF00125_3190,Giraffa giraffa,2019-06-10 00:00:00.000,2020-07-08 23:59:00.000,f,other,fell off,981b52d7-840d-477c-a1f5-db889b6fce7a,ossicone
+IRI2016-3179,GCF00114_3179,Giraffa giraffa,2019-06-10 00:00:00.000,2020-01-08 23:59:00.000,f,other,failed,aff2ee30-adf7-4f8a-a502-a6ffeabc2a60,ossicone
+IRI2016-3191,GCF00126_3191,Giraffa giraffa,2019-06-10 00:00:00.000,2020-01-11 23:59:00.000,f,other,failed,c31b9eb6-4e8f-4c21-95dc-b5fe4da9ab78,ossicone
+IRI2016-3188,GCF00123_3188,Giraffa giraffa,2019-06-10 00:00:00.000,2020-06-05 23:59:00.000,f,other,fell off,0bfe831e-844d-4622-b08d-bfaf8ad64f10,ossicone
+IRI2016-3178,GCF00113_3178,Giraffa giraffa,2019-06-10 00:00:00.000,2020-04-17 23:59:00.000,f,other,fell off,7eeddb4b-9219-4e41-90ef-d6f45fa78908,ossicone
+IRI2016-3181,GCF00116_3181,Giraffa giraffa,2019-06-10 00:00:00.000,2020-02-29 23:59:00.000,f,other,failed,2fcc158e-96f7-4014-afd0-08c45ed1d543,ossicone
+IRI2016-3192,GCF00127_3192,Giraffa giraffa,2019-06-10 00:00:00.000,2019-06-12 23:59:00.000,f,other,failed,6a658d18-51b3-4326-978d-9d6b87fa3ef6,ossicone
+IRI2016-3187,GCF00122_3187,Giraffa giraffa,2019-06-11 00:00:00.000,2019-06-27 23:59:00.000,m,other,fell off,86992b33-435f-4b4e-8c41-eb6918d8a5be,ossicone
+IRI2016-3180,GCF00115_3180,Giraffa giraffa,2019-06-11 00:00:00.000,2021-01-12 23:59:00.000,f,other,fell off,82982e48-8d6a-438b-ae2a-1f5f3840e7f9,ossicone
+IRI2016-3186,GCF00121_3186,Giraffa giraffa,2019-06-11 00:00:00.000,2019-07-20 23:59:00.000,m,other,fell off,849240d5-63f3-401b-94bc-a01b5a08a320,ossicone
+IRI2016-3182,GCF00117_3182,Giraffa giraffa,2019-06-12 00:00:00.000,2019-07-07 23:59:00.000,m,other,fell off,0659f566-c043-44de-9a79-28c1528cc85c,ossicone
+IRI2016-3184,GCF00119_3184,Giraffa giraffa,2019-06-12 00:00:00.000,2020-10-22 23:59:00.000,f,other,failed,08ef7252-e190-4835-a398-a621477b7ff7,ossicone
